@@ -23,4 +23,4 @@
     your going out and your coming in
     from this time forth and forevermore.
 
-[Go back](index.md)
+[Go back](index.html)
