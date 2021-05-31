@@ -27,4 +27,4 @@
     your going out and your coming in
     from this time forth and forevermore.
 
-[Go back](/index.html)
+[Go back](/Psalms/index.html)
